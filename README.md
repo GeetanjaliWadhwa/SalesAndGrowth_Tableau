@@ -1,7 +1,7 @@
 # Sales And Growth
 
 # AIM:
-- Complete the tasks provided below using tableau:
+Complete the tasks provided below using tableau:
 
 1. Formulas for YTD Sales, YTD LY Sales, YoY Growth (= YTD Sales / YTD LY Sales -1)
 
