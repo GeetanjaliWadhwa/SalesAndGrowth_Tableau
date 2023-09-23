@@ -26,3 +26,9 @@ Complete the tasks provided below using tableau:
 YTD -> Year to Date
 LY -> Last Year
 YoY -> Year-over-Year
+
+#DASHBOARD
+
+![Capture1](https://github.com/GeetanjaliWadhwa/SalesAndGrowth_Tableau/assets/86543214/a9b3a717-af74-4079-9623-8549dc672f1a)
+
+![Capture2](https://github.com/GeetanjaliWadhwa/SalesAndGrowth_Tableau/assets/86543214/766271d0-6250-4cb7-98bc-d50724c4edb3)
